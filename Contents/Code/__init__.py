@@ -4,7 +4,7 @@
 XBMCnfoMoviesImporter
 
 spec'd from:
- http://wiki.xbmc.org/index.php?title=Import_-_Export_Library#Video_nfo_Files
+https://kodi.wiki/view/NFO_files/Templates
 
 CREDITS:
     Original code author: .......... Harley Hooligan
